@@ -1,0 +1,3085 @@
+('C:\\Users\\Ammad Ali\\Documents\\Python\\PyTube\\build\\main\\PYZ-00.pyz',
+ [('pkg_resources',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.unicode',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.testing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.results',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.helpers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.core',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.diagram',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.common',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\struct.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('pyparsing.testing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pyparsing.unicode',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pyparsing.helpers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pyparsing.results',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pyparsing.core',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pyparsing.diagram',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pyparsing.actions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pyparsing.exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pyparsing.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tty.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\string.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.common',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.actions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py39compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\py39compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py38compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('distutils.msvc9compiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvc9compiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('distutils.versionpredicate',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('distutils.command',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.cmd',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\cmd.py',
+   'PYMODULE'),
+  ('distutils.dist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\dist.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('distutils.unixccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('distutils.extension',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\extension.py',
+   'PYMODULE'),
+  ('distutils.config',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\config.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\cgi.py',
+   'PYMODULE'),
+  ('setuptools._distutils.config',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.upload',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\upload.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.register',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\register.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.py37compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('distutils._msvccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.bcppcompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\bcppcompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._functools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._distutils._collections',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('setuptools._vendor.typing_extensions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.unicode',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.testing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.results',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.helpers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.core',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.diagram',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.common',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing.actions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.__about__',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.simple',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.readers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.abc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._legacy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._common',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._adapters',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('distutils.command.build_ext',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools.py34compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\py34compat.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('distutils.command.build',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.py36compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\command\\py36compat.py',
+   'PYMODULE'),
+  ('distutils.command.sdist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('distutils.command.bdist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools._deprecation_warning',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\setuptools\\_deprecation_warning.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('distutils.core',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\distutils\\core.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('pytube',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\__init__.py',
+   'PYMODULE'),
+  ('pytube.contrib.search',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\contrib\\search.py',
+   'PYMODULE'),
+  ('pytube.contrib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('pytube.innertube',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\innertube.py',
+   'PYMODULE'),
+  ('pytube.contrib.channel',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\contrib\\channel.py',
+   'PYMODULE'),
+  ('pytube.helpers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\helpers.py',
+   'PYMODULE'),
+  ('pytube.exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\exceptions.py',
+   'PYMODULE'),
+  ('pytube.contrib.playlist',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\contrib\\playlist.py',
+   'PYMODULE'),
+  ('pytube.__main__',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\__main__.py',
+   'PYMODULE'),
+  ('pytube.monostate',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\monostate.py',
+   'PYMODULE'),
+  ('pytube.metadata',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\metadata.py',
+   'PYMODULE'),
+  ('pytube.query',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\query.py',
+   'PYMODULE'),
+  ('pytube.captions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\captions.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pytube.streams',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\streams.py',
+   'PYMODULE'),
+  ('pytube.itags',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\itags.py',
+   'PYMODULE'),
+  ('pytube.request',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\request.py',
+   'PYMODULE'),
+  ('pytube.extract',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\extract.py',
+   'PYMODULE'),
+  ('pytube.parser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\parser.py',
+   'PYMODULE'),
+  ('pytube.cipher',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\cipher.py',
+   'PYMODULE'),
+  ('pytube.version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pytube\\version.py',
+   'PYMODULE'),
+  ('customtkinter',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.image',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.image.ctk_image',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\image\\ctk_image.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_version.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._generic_alias',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_generic_alias.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_textbox',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_textbox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.utility',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.utility.utility_functions',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\utility\\utility_functions.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_tabview',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_tabview.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_switch',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_switch.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_slider',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_slider.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_segmented_button',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_segmented_button.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_scrollbar',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_scrollbar.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_radiobutton',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_radiobutton.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_progressbar',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_progressbar.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_optionmenu',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_optionmenu.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_label',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_label.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_frame',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_frame.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_entry',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_entry.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_combobox',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_combobox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_checkbox',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_checkbox.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.ctk_button',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\ctk_button.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes.ctk_base_class',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\ctk_base_class.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_widget_classes.dropdown_menu',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_widget_classes\\dropdown_menu.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering.draw_engine',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\draw_engine.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.core_rendering.ctk_canvas',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\core_rendering\\ctk_canvas.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.theme',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.theme.theme_manager',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\theme\\theme_manager.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling.scaling_tracker',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_tracker.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.scaling.scaling_base_class',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\scaling\\scaling_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font.font_manager',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\font_manager.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.font.ctk_font',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\font\\ctk_font.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode.appearance_mode_tracker',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_tracker.py',
+   'PYMODULE'),
+  ('darkdetect',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\darkdetect\\__init__.py',
+   'PYMODULE'),
+  ('darkdetect._linux_detect',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\darkdetect\\_linux_detect.py',
+   'PYMODULE'),
+  ('darkdetect._windows_detect',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\darkdetect\\_windows_detect.py',
+   'PYMODULE'),
+  ('darkdetect._dummy',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\darkdetect\\_dummy.py',
+   'PYMODULE'),
+  ('darkdetect._mac_detect',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\darkdetect\\_mac_detect.py',
+   'PYMODULE'),
+  ('customtkinter.windows.widgets.appearance_mode.appearance_mode_base_class',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\widgets\\appearance_mode\\appearance_mode_base_class.py',
+   'PYMODULE'),
+  ('customtkinter.windows',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\__init__.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_input_dialog',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\ctk_input_dialog.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_toplevel',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\ctk_toplevel.py',
+   'PYMODULE'),
+  ('customtkinter.windows.ctk_tk',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\customtkinter\\windows\\ctk_tk.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Ammad '
+   'Ali\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tkinter\\__init__.py',
+   'PYMODULE')])
